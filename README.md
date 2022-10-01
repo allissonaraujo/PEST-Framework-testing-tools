@@ -5,5 +5,5 @@
 # Clonou? Para rodar use:
 composer install
 
-# Este código está validado atráves de CI pelo GutHubAction
+# Este código está validado atráves de CI pelo GitHubAction
 [![CI](https://github.com/allissonaraujo/PEST-Framework-testing-tools/actions/workflows/php.yml/badge.svg)](https://github.com/allissonaraujo/PEST-Framework-testing-tools/actions/workflows/php.yml)
