@@ -6,4 +6,4 @@
 composer install
 
 # Este código está validado atráves de CI pelo GutHubAction
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+[![CI](https://github.com/allissonaraujo/PEST-Framework-testing-tools/actions/workflows/php.yml/badge.svg)](https://github.com/allissonaraujo/PEST-Framework-testing-tools/actions/workflows/php.yml)
