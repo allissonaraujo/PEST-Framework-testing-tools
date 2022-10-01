@@ -1,0 +1,24 @@
+{
+    "name": "allis/pest",
+    "description": "Testes usando o fw PEST",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Testes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Allisson Rafael de Brito Araujo",
+            "email": "allissonads@outlook.com"
+        }
+    ],
+    "require-dev": {
+        "pestphp/pest": "^1.22"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
